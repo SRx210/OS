@@ -1,0 +1,18 @@
+<h> Intro </h>
+<p> This Experiment is about Shell Scripting </p> 
+<p> While running Ubuntu, Linux Mint, or any other Linux distribution, we are interacting with the shell by using the terminal. </p>
+<p> The below are the terminologies which are important with respect to Shell Scripting </p>
+<ul>
+  <li> Kernel </li>
+  <li> Shell </li>
+  </li> Terminal </li>
+</ul>
+
+<h3> Kernel </h3>
+<p> The kernel is a computer program that is the core of a computer’s operating system, with complete control over everything in the system </p>
+
+<h3> Shell </h3>
+<p> A shell is a special user program that provides an interface for the user to use operating system services. Shell accepts human-readable commands from users and converts them into something which the kernel can understand. </p>
+
+<h3> Terminal </h3>
+<p> A program which is responsible for providing an interface to a user so that he/she can access the shell. It basically allows users to enter commands and see the output of those commands in a text-based interface. Large scripts that are written to automate and perform complex tasks are executed in the terminal. </p>
