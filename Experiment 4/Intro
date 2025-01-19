@@ -1,0 +1,10 @@
+Experiment 4
+
+Preemptive CPU scheduling is a scheduling algorithm that prioritizes tasks and allocates CPU time to the task with the highest priority.
+This algorithm is often used in real-time systems.
+
+This experiment is about CPU Scheduling Preemptive Method which contains the following methods:
+- SRTF (Shortest Remaining Time First or SJF with Preemption)
+- Round Robin
+- Priority (Lower Priority and Higher Priority)
+
