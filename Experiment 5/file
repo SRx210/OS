@@ -1,1 +1,5 @@
+The Banker’s Algorithm is a resource allocation and deadlock avoidance algorithm that tests for safety by simulating the allocation for the predetermined maximum possible amounts of all resources, then makes an “s-state” check to test for possible activities, before deciding whether allocation should be allowed to continue.
 
+The Banker’s Algorithm is a smart way for computer systems to manage how programs use resources, like memory or CPU time. It helps prevent situations where programs get stuck and can not finish their tasks. This condition is known as deadlock. 
+By keeping track of what resources each program needs and what’s available, the banker algorithm makes sure that programs only get what they need in a safe order. 
+This helps computers run smoothly and efficiently, especially when lots of programs are running at the same time.
